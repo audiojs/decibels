@@ -1,6 +1,6 @@
 {
   "name": "decibels",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert values to and from decibels.",
   "main": "index.js",
   "scripts": {
