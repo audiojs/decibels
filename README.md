@@ -1,6 +1,8 @@
 decibels
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/audiojs/decibels.svg)](https://greenkeeper.io/)
+
 Convert values to and from decibels.
 
 ## Install [via npm](https://www.npmjs.com/package/decibels)
